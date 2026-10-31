@@ -1,6 +1,6 @@
 # 🤖 About Me
 
-I am an aspiring Data Analyst with skills in Excel, Python, SQL, and Tableau. I have experience in data cleaning, exploratory data analysis (EDA), data visualization, and dashboard development to transform raw data into meaningful insights. My UI/UX Design knowledge also helps me create intuitive, user-friendly dashboards that present data clearly and effectively.
+I am an aspiring Data Analyst currently building my skills in Excel, Python, SQL, and Tableau. I am learning data cleaning, exploratory data analysis (EDA), data visualization, and dashboard development to turn raw data into meaningful insights. My background in UI/UX Design also helps me create intuitive and user-friendly dashboards that present data clearly and effectively.
 
 # 💻 Tools & Technologies
 
