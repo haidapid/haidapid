@@ -2,6 +2,17 @@
 
 I am an aspiring Data Analyst currently building my skills in Excel, Python, SQL, and Tableau. I am learning data cleaning, exploratory data analysis (EDA), data visualization, and dashboard development to turn raw data into meaningful insights. My background in UI/UX Design also helps me create intuitive and user-friendly dashboards that present data clearly and effectively.
 
+## 🌐 Portfolio
+
+<p align="left">
+  <a href="idariyadi.framer.website" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://dribbble.com/haidapid" target="_blank">
+    <img src="https://img.shields.io/badge/Dribbble-Explore%20My%20Designs-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/>
+  </a>
+</p>
+
 # 💻 Tools & Technologies
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
