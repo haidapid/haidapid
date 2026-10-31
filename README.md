@@ -27,6 +27,5 @@ I am an aspiring Data Analyst with skills in Excel, Python, SQL, and Tableau. I 
 
 ---
 
-![](https://komarev.com/ghpvc/?username=haidapid&icon=0&color=0)
 
 <!-- Proudly created with GPRM -->
