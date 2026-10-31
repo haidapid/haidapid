@@ -20,9 +20,9 @@ I am an aspiring Data Analyst with skills in Excel, Python, SQL, and Tableau. I 
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=haidapid&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&show_icons=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=haidapid&theme=gotham&hide_border=false)
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=haidapid&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&show_icons=true)
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=haidapid&theme=gotham&hide_border=false&layout=compact)
 
