@@ -6,12 +6,13 @@ I am an aspiring Data Analyst currently building my skills in Excel, Python, SQL
 
 <p align="left">
   <a href="https://davidariyadi.framer.website" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-000000?style=for-the-badge&logo=framer&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=framer&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://dribbble.com/haidapid" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Dribbble-Explore%20My%20Designs-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/>
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/>
   </a>
 </p>
+
 
 # 💻 Tools & Technologies
 
