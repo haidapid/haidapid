@@ -2,7 +2,7 @@
 
 I am an aspiring Data Analyst with skills in Excel, Python, SQL, and Tableau. I have experience in data cleaning, exploratory data analysis (EDA), data visualization, and dashboard development to transform raw data into meaningful insights. My UI/UX Design knowledge also helps me create intuitive, user-friendly dashboards that present data clearly and effectively.
 
-# 💻 Tech Stack
+# 💻 Tools & Technologies
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -18,7 +18,7 @@ I am an aspiring Data Analyst with skills in Excel, Python, SQL, and Tableau. I 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-# 📊 GitHub Stats
+# 📊 Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=haidapid&theme=gotham&hide_border=false)
 
