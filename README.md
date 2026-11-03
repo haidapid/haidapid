@@ -30,7 +30,19 @@ I am an aspiring Data Analyst currently building my skills in Excel, Python, SQL
 
 # Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=haidapid&theme=gotham&hide_border=false)
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://ghstats.dev/api/card?username=haidapid&theme=midnight)
+
+![Top Languages](https://ghstats.dev/api/langs?username=haidapid&layout=compact&theme=midnight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=haidapid&theme=gotham&hide_border=true)
+
+</div>
+
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=haidapid&theme=gotham&hide_border=false&layout=compact)
 
