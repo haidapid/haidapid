@@ -14,7 +14,7 @@ I am an aspiring Data Analyst currently building my skills in Excel, Python, SQL
 </p>
 
 
-# 💻 Tools & Technologies
+# Tools & Technologies
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
