@@ -2,7 +2,7 @@
 
 I am an aspiring Data Analyst currently building my skills in Excel, Python, SQL, and Power BI. I am learning data cleaning, exploratory data analysis (EDA), data visualization, and dashboard development to turn raw data into meaningful insights. My background in UI/UX Design also helps me create intuitive and user-friendly dashboards that present data clearly and effectively.
 
-## 🌐 Portfolio
+# Portfolio
 
 <p align="left">
   <a href="https://davidariyadi.framer.website" target="_blank" rel="noopener noreferrer">
@@ -28,7 +28,7 @@ I am an aspiring Data Analyst currently building my skills in Excel, Python, SQL
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-# 📊 Stats
+# Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=haidapid&theme=gotham&hide_border=false)
 
