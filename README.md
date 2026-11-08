@@ -1,6 +1,6 @@
 # About
 
-I am an aspiring Data Analyst currently building my skills in Excel, Python, SQL, and Power BI. I am learning data cleaning, exploratory data analysis (EDA), data visualization, and dashboard development to turn raw data into meaningful insights. My background in UI/UX Design also helps me create intuitive and user-friendly dashboards that present data clearly and effectively.
+I am a Data Analyst passionate about transforming raw data into meaningful insights that drive better decision-making. With experience in Excel, Python, SQL, and Power BI, I work across data cleaning, exploratory data analysis (EDA), data visualization, and interactive dashboard development. Combining analytical thinking with my background in UI/UX Design, I strive to create data-driven solutions and intuitive dashboards that communicate insights clearly, effectively, and visually.
 
 # Portfolio
 
