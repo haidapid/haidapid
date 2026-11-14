@@ -27,7 +27,6 @@ I am an aspiring Data Analyst currently building my skills in Excel, Python, SQL
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![Spreadsheet](https://img.shields.io/badge/Spreadsheet-217346?style=for-the-badge&logo=googlesheets&logoColor=white)
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=haidapid&theme=gotham&hide_border=false&layout=compact)
