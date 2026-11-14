@@ -28,6 +28,14 @@ I am an aspiring Data Analyst currently building my skills in Excel, Python, SQL
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+### 📈 Analytical Skills
+
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-2C3E50?style=for-the-badge&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-3498DB?style=for-the-badge&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-8E44AD?style=for-the-badge&logoColor=white)
+![EDA](https://img.shields.io/badge/Exploratory_Data_Analysis-16A085?style=for-the-badge&logoColor=white)
+![Dashboard](https://img.shields.io/badge/Dashboard_Development-E67E22?style=for-the-badge&logoColor=white)
+
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=haidapid&theme=gotham&hide_border=false&layout=compact)
 
