@@ -29,7 +29,7 @@ I am an aspiring Data Analyst currently building my skills in Excel, Python, SQL
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Spreadsheet](https://img.shields.io/badge/Spreadsheet-217346?style=for-the-badge&logo=googlesheets&logoColor=white)
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=haidapid&theme=gotham&hide_border=false&layout=compact&langs_count=8&hide=SCSS)
+![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=haidapid&theme=gotham&hide_border=false&layout=compact&langs_count=8)
 
 
 
