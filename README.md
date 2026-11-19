@@ -2,7 +2,7 @@
 
 I am an aspiring Data Analyst currently building my skills in Excel, Python, SQL, and Power BI. I am learning data cleaning, exploratory data analysis (EDA), data visualization, and dashboard development to turn raw data into meaningful insights. My background in UI/UX Design also helps me create intuitive and user-friendly dashboards that present data clearly and effectively.
 
-# Current Portfolio & Example
+# Current Portfolio & Examples
 
 <p align="left">
   <a href="https://davidariyadi.framer.website" target="_blank" rel="noopener noreferrer">
